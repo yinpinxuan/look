@@ -21,7 +21,6 @@ interface ICursorState {
   style: string;
   width: number;
 }
-
 /**
  * The time between cursor blinks.
  */
